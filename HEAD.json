@@ -1,1 +1,6 @@
-{"seq":0,"head_hash":"GENESIS","sealed_at":""}
+{
+  "clock_synced": true,
+  "head_hash": "bc37e069be964080b37932db428fcafce26aefc7f716f0d96a53c20556d6c0fb",
+  "sealed_at": "2026-06-20T20:31:52Z",
+  "seq": 201
+}
