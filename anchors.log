@@ -1430,3 +1430,4 @@
 2026-08-22T20:10:20Z	3082	e520338b495dd81580a7389e95c9a83f2a395f91e2c56509e18f8772970d1a46	confirmed	G7vy3NsJNxb_gt4M9p6zE_jqff9_C79Ie8JTwBfPjws
 2026-08-22T21:10:20Z	3084	9fa6c984fef6fbd71005989991ab2baa6cb8e72881440cdf90996d76dd63bf7c	confirmed	hRrVwJnBlSdXrcAueoY02T8YQZA1xCRX5CY0wSCVTgo
 2026-08-22T22:10:20Z	3086	769372e9af3c3d7c35cedb6d33eb84ba5ca0a1ecc45370683f13c8c56020e434	failed:Failed to anchor proof: turbo upload rejected: http 503: Data Item: pm-GdR2p1sOFuut5bmHgBw-Sb_e-3XZKr7iarGt77B4. Upload Service is Unavailable. Payment Service is unreachable	
+2026-08-22T23:10:20Z	3087	d3c82a0bfb529bcdd47f8e60787543b12b8c33cd76ff3a584e2e7de4b8ddc602	failed:Failed to anchor proof: turbo upload rejected: http 503: Data Item: 9x8SC2QG6SGX-k2nP2Jm-TfQGMbLHsNwIQAsJ-36udg. Upload Service is Unavailable. Payment Service is unreachable	
