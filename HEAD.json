@@ -1,6 +1,6 @@
 {
   "clock_synced": true,
-  "head_hash": "230c821b9e48ecef846950f784d6c5c1546f0de1673d9288a9736b2892e76c5b",
-  "sealed_at": "2026-11-01T00:00:01Z",
-  "seq": 6662
+  "head_hash": "70ab89af777955dad522517a818b0440fcf2a08977e2baa73290d9fc505bade0",
+  "sealed_at": "2026-11-01T00:05:00Z",
+  "seq": 6663
 }
